@@ -1,12 +1,12 @@
 # Snake_Game_Python
 Snake game using python
 
-""""""""""""""""""""""""""""""""""""""""""""
+
 Author: Tech With Haberjame
 GitHub: Tech-With-Haberjame
 Tiktok: haberjame
 Contact: haberjame.tech@gmail.com
-""""""""""""""""""""""""""""""""""""""""""""
+
 
 Components of Snake_Game Folder
 
