@@ -7,9 +7,7 @@ GitHub: Tech-With-Haberjame
 Tiktok: haberjame
 Contact: haberjame.tech@gmail.com
 
-///////////////////
 pip install pygame
-//////////////////
 
 Components of Snake_Game Folder
 
