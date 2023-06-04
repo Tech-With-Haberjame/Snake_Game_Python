@@ -17,4 +17,10 @@ Components of Snake_Game Folder
 5. License file = For Study, Do not use for commercial gain.
 
 
+Control Path
+1. Up arrow = For move up
+2. Down arrow = For move down
+3. Right arrow = For go right
+4. Left arrow = For go left
+
 
