@@ -8,6 +8,8 @@ Tiktok: haberjame
 Contact: haberjame.tech@gmail.com
 
 
+pip install pygame
+
 Components of Snake_Game Folder
 
 1. best_score.txt = text file to recprd your best score in each game.
