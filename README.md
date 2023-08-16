@@ -1,12 +1,16 @@
 # Snake_Game_Python
 Snake game using python
 
+# Contact
 - Author: Tech With Haberjame
 - GitHub: Tech-With-Haberjame
 - Tiktok: haberjame
 - Contact: haberjame.tech@gmail.com
 
-Components of Snake_Game Folder
+# Install This Library
+
+
+# Components of Snake_Game Folder
 
 1. best_score.txt = text file to recprd your best score in each game.
 2. Readme = Guide your step
@@ -15,7 +19,7 @@ Components of Snake_Game Folder
 5. License file = For Study, Do not use for commercial gain.
 
 
-Control Path
+# Control Path
 1. Up arrow = For move up
 2. Down arrow = For move down
 3. Right arrow = For go right
