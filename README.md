@@ -1,11 +1,10 @@
 # Snake_Game_Python
 Snake game using python
 
-
-Author: Tech With Haberjame
-GitHub: Tech-With-Haberjame
-Tiktok: haberjame
-Contact: haberjame.tech@gmail.com
+- Author: Tech With Haberjame
+- GitHub: Tech-With-Haberjame
+- Tiktok: haberjame
+- Contact: haberjame.tech@gmail.com
 
 Components of Snake_Game Folder
 
@@ -23,4 +22,5 @@ Control Path
 4. Left arrow = For go left
 
 
-
+# Example Program
+![Untitled_video_AdobeExpress (2)](https://github.com/Tech-With-Haberjame/Snake_Game_Python/assets/135504212/ab99daeb-4544-494d-99c0-104d1b43045f)
