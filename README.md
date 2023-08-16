@@ -8,7 +8,7 @@ Snake game using python
 - Contact: haberjame.tech@gmail.com
 
 # Install This Library
-!pip install pygame
+pip install pygame
 
 # Components of Snake_Game Folder
 
