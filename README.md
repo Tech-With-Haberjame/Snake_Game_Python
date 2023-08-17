@@ -31,5 +31,5 @@ Snake game using python
 4. Left arrow = For go left
 
 # Resource
-https://www.edureka.co/blog/snake-game-with-pygame/
-https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/
+- https://www.edureka.co/blog/snake-game-with-pygame/
+- https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/
