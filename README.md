@@ -30,3 +30,6 @@ Snake game using python
 3. Right arrow = For go right
 4. Left arrow = For go left
 
+# Resource
+https://www.edureka.co/blog/snake-game-with-pygame/
+https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/
